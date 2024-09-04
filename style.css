@@ -763,7 +763,7 @@ nav{
 #plan h1, .card2, .sell img, .buy img, .sell-text h1, .sell-text p, .buy-text h1, .buy-text p
 .line4, .line5, .line6, #bath p, .line7, .line8, .line9, .text4 h1, .text4 p, .text5 h1, .text5 p,
 .text5 ul li, .market img, .tablet img, .text6 h1, .text6 h3, .text6 p, .text7 h3, .text7 p, .text8 h3, 
-.text8 p, .text9 h3, .text9 p, #container4 h1, #container4 p, .text10 p{
+.text8 p, .text9 h3, .text9 p, #container4 h1, #container4 p, .text10 p, .buy-text p{
     animation: CSSscrollReveal ease-in-out both;
     animation-timeline: view();
     animation-range: entry 5% cover 30%;
